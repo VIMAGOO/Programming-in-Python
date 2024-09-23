@@ -1,0 +1,8 @@
+Python
+Pandas
+Matplotlib
+FastAPI
+3dJS
+React
+MariaDB
+Oferta revisada.
